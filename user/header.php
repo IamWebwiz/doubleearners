@@ -28,7 +28,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">DoubleEarners</a>
+                <a class="navbar-brand" href="index.php">DoubleEarner</a>
             </div>
 
             <ul class="nav navbar-top-links navbar-right">
@@ -37,19 +37,12 @@
                         <i class="fa fa-user fa-fw"></i> Username <i class="fa fa-caret-down"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-user">
-                        <!-- <li>
-                            <a href="profile.php"><i class="fa fa-user"></i> User Profile</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li>
-                            <a href="providehelp.php"><i class="fa fa-credit-card"></i> Provide Help
-                        </li>
-                        <li class="divider"></li> -->
                         <li>
                             <a href="support.php"><i class="fa fa-envelope-o"></i> Contact Support</a>
                         </li>
                         <li class="divider"></li>
-                        <li><a href="#"><i class="fa fa-power-off"></i> Logout</a>
+                        <li>
+                            <a href="#"><i class="fa fa-power-off"></i> Logout</a>
                         </li>
                     </ul>
                     <!-- /.dropdown-user -->

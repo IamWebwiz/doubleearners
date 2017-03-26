@@ -19,7 +19,7 @@ require("sidebar.php");
 		<p><b>Bank: </b></p>
 		<p><b>Account name: </b></p>
 		<p><b>Account number: </b></p>
-		<p><b>Joined DoubleEarners about: </b></p>
+		<p><b>Joined DoubleEarner about: </b></p>
 		<p><b>Donations made: </b></p>
 		<p><b>Donations received: </b></p>
 	</div>

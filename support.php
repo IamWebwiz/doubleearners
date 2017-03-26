@@ -16,8 +16,8 @@
 				<!-- Form -->
 				<form>
 					<div class="form-group">
-						<label>Username</label>
-						<input type="text" class="form-control" placeholder="Username">
+						<label>Email</label>
+						<input type="email" class="form-control" placeholder="Email">
 					</div>
 					<div class="form-group">
 						<label>Phone</label>

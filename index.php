@@ -1,5 +1,5 @@
 <?php require("header.php"); ?>
-<title>DoubleEarners</title>
+<title>DoubleEarner</title>
 <script>
 	$(document).ready(function(){
 		$("#home").attr("class", "active");
@@ -13,7 +13,7 @@
 				<div class="panel-body">
 					<h2 class="text-info">About us</h2>
 					<hr>
-					DoubleEarners is a new peer-to-peer donation platform which uses a 2x1 Matrix system. You get double the amount you invested with in a very short time.
+					DoubleEarner is a new peer-to-peer donation platform which uses a 2x1 Matrix system. You get double the amount you invested with in a very short time.
 				</div>
 			</div>
 		</div>
