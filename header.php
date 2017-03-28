@@ -36,6 +36,7 @@
 					<li id="login"><a href="login.php"><span class="fa fa-sign-in"></span> Login</a></li>
 					<li id="register"><a href="register.php"><span class="fa fa-user"></span> Register</a></li>
 					<li id="support"><a href="support.php"><span class="fa fa-envelope-open"></span> Contact us</a></li>
+					<li id="faqs"><a href="faqs.php"><span class="fa fa-question-circle"></span> F.A.Qs</a></li>
 				</ul>
 			</div>
 		</div>
